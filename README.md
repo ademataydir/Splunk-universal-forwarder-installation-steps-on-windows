@@ -30,7 +30,7 @@ Here, if we have a certificate of our own that we want to identify, we define it
 
 Here, we click on the relevant boxes to determine which Logs we want  Splunk Universal Forwarder to send to Splunk Enterprise from the device on which it is installed, and then click the "Next" button to proceed.
 
-![image](https://github.com/user-attachments/assets/760c93b1-aba0-46b8-991c-73fb15cdb3be) © Splunk Inc.
+![image](https://github.com/user-attachments/assets/776d07c0-2181-407d-94ab-0c02eec704b9) © Splunk Inc.
 
 Here, it asks us  to set a username and password for ourselves. We should write down this information as we may be asked to make any adjustments to Splunk Universal Forwarder in the future. We proceed by pressing the "Next" button.
 
@@ -70,3 +70,6 @@ When  the installation is finished, a screen with a "Finish" button will appear.
 ![image](https://github.com/user-attachments/assets/7ddc6de7-3ed8-4e76-b637-fe663b2492b5) © Splunk Inc.
 
 In order for Splunk Universal Forwarder to work, we must right-click on Splunk Forwarder in the Services section in the Task Manager and do Restart.
+
+### Note
+This content has been prepared for personal learning purposes related to the installation of Splunk software. All screenshots and software are the property of Splunk Inc. This page is not intended for commercial use.
