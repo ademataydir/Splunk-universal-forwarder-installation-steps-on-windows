@@ -67,7 +67,7 @@ Now we press the "Install" button and start the installation.
 
 When  the installation is finished, a screen with a "Finish" button will appear. When you click the Finish button, our Splunk Universal Forwarder installation is completed.
 
-![image](https://github.com/user-attachments/assets/7ddc6de7-3ed8-4e76-b637-fe663b2492b5) © Splunk Inc.
+![image](https://github.com/user-attachments/assets/7ddc6de7-3ed8-4e76-b637-fe663b2492b5)
 
 In order for Splunk Universal Forwarder to work, we must right-click on Splunk Forwarder in the Services section in the Task Manager and do Restart.
 
