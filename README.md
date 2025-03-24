@@ -1,9 +1,7 @@
-# Splunk Universal Forwarder Installation And Settings
-
 ## How to Install Splunk Universal Forwarder on Windows
 
 www.splunk.com is a member of the site and the Splunk Universal Forwarder application is downloaded and installed.
-### Splunk Enterprise Installation steps;
+### Splunk Universal Forwarder Installation steps;
 We run the downloaded Setup file.
 
 ![image](https://github.com/user-attachments/assets/0a7afcbb-5740-406e-90f5-5c76b560cc42)
