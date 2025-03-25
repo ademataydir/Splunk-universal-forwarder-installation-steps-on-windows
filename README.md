@@ -73,7 +73,7 @@ In order for Splunk Universal Forwarder to work, we must right-click on Splunk F
 
 ### * Now, to monitor our system more effectively, we need to create dashboards for several use cases based on the logs collected by Splunk Universal Forwarder and sent to Splunk Enterprise.
 
-https://github.com/ademataydir/splunk-use-cases
+- [Splunk Use Cases & Dashboards](https://github.com/ademataydir/splunk-use-cases)
 
 ### Note
 This content has been prepared for personal learning purposes related to the installation of Splunk software. All screenshots and software are the property of Splunk Inc. This page is not intended for commercial use.
