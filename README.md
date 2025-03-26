@@ -71,6 +71,9 @@ When  the installation is finished, a screen with a "Finish" button will appear.
 
 In order for Splunk Universal Forwarder to work, we must right-click on Splunk Forwarder in the Services section in the Task Manager and do Restart.
 
+### * Now, our next step will be  to ensure that Sysmon Logs are also sent to Splunk Enterprise.
+- [Install Sysmon on Windows and forward the logs to Splunk Enterprise](https://github.com/ademataydir/sysmon-installation-steps-on-windows)
+
 ### * Now, to monitor our system more effectively, we need to create dashboards for several use cases based on the logs collected by Splunk Universal Forwarder and sent to Splunk Enterprise.
 
 - [Splunk Use Cases & Dashboards](https://github.com/ademataydir/splunk-use-cases)
