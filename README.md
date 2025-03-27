@@ -30,7 +30,7 @@ Here, if we have a certificate of our own that we want to identify, we define it
 
 Here, we click on the relevant boxes to determine which Logs we want  Splunk Universal Forwarder to send to Splunk Enterprise from the device on which it is installed, and then click the "Next" button to proceed.
 
-![image](https://github.com/user-attachments/assets/776d07c0-2181-407d-94ab-0c02eec704b9) © Splunk Inc.
+![image](https://github.com/user-attachments/assets/85df329a-c67b-4061-bd9d-2c1809b3831a) © Splunk Inc.
 
 Here, it asks us  to set a username and password for ourselves. We should write down this information as we may be asked to make any adjustments to Splunk Universal Forwarder in the future. We proceed by pressing the "Next" button.
 
